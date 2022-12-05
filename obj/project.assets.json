@@ -13,9 +13,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/aitana/Documents/Epicodus/Projects/car-dealership/Car.csproj",
-      "projectName": "Car",
-      "projectPath": "/Users/aitana/Documents/Epicodus/Projects/car-dealership/Car.csproj",
+      "projectUniqueName": "/Users/aitana/Documents/Epicodus/Projects/car-dealership/CarDealership.csproj",
+      "projectName": "CarDealership",
+      "projectPath": "/Users/aitana/Documents/Epicodus/Projects/car-dealership/CarDealership.csproj",
       "packagesPath": "/Users/aitana/.nuget/packages/",
       "outputPath": "/Users/aitana/Documents/Epicodus/Projects/car-dealership/obj/",
       "projectStyle": "PackageReference",

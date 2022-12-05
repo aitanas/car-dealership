@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "HCl96eM/j/q2n2FXpgGLemtf9eblKQ39Jvfoqw1Bmj6Rf/FQVxVqvhxUChRxRrnqvKozl/wa6AJxykOk1tEcKA==",
+  "dgSpecHash": "Ouh8HPZ3JKVaVcFuNub7ogAq2FSU/tlVh1nCtqKcIzvKVvyBIYw8CwtkQqZoNY4iydmcNRP+/mVr99oyzOWEkA==",
   "success": true,
-  "projectFilePath": "/Users/aitana/Documents/Epicodus/Projects/car-dealership/Car.csproj",
+  "projectFilePath": "/Users/aitana/Documents/Epicodus/Projects/car-dealership/CarDealership.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
